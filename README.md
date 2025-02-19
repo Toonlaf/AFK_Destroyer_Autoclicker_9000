@@ -9,6 +9,8 @@
 
 AFK Destroyer 9000 is a high-tech, military-grade automated clicking system designed for those moments when your fingers need a tactical retreat. With its matrix-inspired interface and cyber warfare aesthetics, it's not just an autoclicker - it's a clicking revolution!
 
+![AFK Destroyer 9000 Screenshot](screenshot/screenshot.png)
+
 ## ⚡ Features
 
 - 🎯 Precision targeting system with customizable coordinates
